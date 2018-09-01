@@ -1,2 +1,2 @@
-# fall2018kaggle
-Fata repo for fall 2018 Kaggle Competition
+# Kaggle Fall 2018
+Data repo for fall 2018 Kaggle Competition
